@@ -1,0 +1,106 @@
+/* estilo titulo*/
+h1{
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size:90px;
+    text-shadow: 3px 3px 6px #3854A6;
+}
+
+/* estilo encaezado */
+#header{
+    position: fixed;
+    width: 60%;
+    z-index: 1000;
+}
+
+/* barra de navegación */
+.navbar{
+    margin-bottom: 0px !important;
+}
+
+/* estilos textos, párrafos y subtitulos */
+h2{
+    color:black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+    text-shadow: 3px 3px 6px #3854A6;
+}
+
+.carousel-caption{
+    text-align: center;
+    font-family: 'Monserrat', sans-serif;
+    font-size: 13px;
+    background-color: rgba(0,0,0, 0.5);
+    color: black;
+}
+
+p{
+    color:black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+}
+
+.carousel-p{
+    color:white;
+    font-family: 'Monserrat', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+.card-text{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.p-tema{
+    text-align: center;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+/* estilo footer */
+.card-footer{
+    color:black;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+    background-color: aliceblue;
+    margin-top:50px;
+    width:100%;
+    height:100px;
+}
+
+/* estilos cajas */
+.fondo{
+    background-color:rgba(221, 160, 221, 0.5);
+} 
+
+.color{
+    color: white;
+}
+
+#caja{
+    width: 100%;
+    height: 7000;
+    padding: 50px;
+    margin-left: 0px;
+    background-color:rgba(221, 160, 221, 0.5)
+}
+
+.p-caja{
+    font-size: 12px;
+}
+
+#caja2{
+    width: 100%;
+    height: 7000;
+    padding: 50px;
+    margin-left: 0px;
+    background-color:rgba(221, 160, 221, 0.5)
+}
+
